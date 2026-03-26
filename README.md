@@ -1,4 +1,4 @@
-# ResuméLens — AI-Powered Resume Enhancer
+# ResumeLens — AI-Powered Resume Enhancer
 
 A sleek, editorial-inspired resume enhancer that delivers expert-level, ATS-optimized feedback powered by **Groq's ultra-fast Llama 3 70B** model. Built with Next.js 14, Tailwind CSS, and deployed on Vercel.
 
