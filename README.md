@@ -1,8 +1,5 @@
 # ResuméLens — AI-Powered Resume Enhancer
 
-> **Live Demo:** [your-deployment-url.vercel.app](https://resumelens-eta.vercel.app)
-> **GitHub:** [github.com/your-username/resume-enhancer](https://github.com/AmulyaK4/resume-enhance)
-
 A sleek, editorial-inspired resume enhancer that delivers expert-level, ATS-optimized feedback powered by **Groq's ultra-fast Llama 3 70B** model. Built with Next.js 14, Tailwind CSS, and deployed on Vercel.
 
 ---
